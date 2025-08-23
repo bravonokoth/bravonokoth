@@ -7,7 +7,7 @@
 🔭 **Currently working on:** [Bonga Chat App](https://week-7-devops-deployment-assignment-two-mu.vercel.app/)  
 🌱 **Learning:** Cloud-native deployments, Kubernetes, and advanced DevOps  
 👯 **Looking to collaborate on:** Open-source, scalable web & mobile apps  
-📫 **Reach me on:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
+📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/orwaokoth)  
 ⚡ **Fun fact:** I love guitar, traveling, and coffee  
 🎥 **Coming soon:** Tech content & tutorials!
 
@@ -26,6 +26,7 @@
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
@@ -64,7 +65,7 @@ Team Leadership, Communication, Operations Management
 | ------------ | ----- | --------- | ---- |
 | **Bonga Chat App** | MongoDB, Express, React, Node, TypeScript, Vercel, Render | [Live](https://week-7-devops-deployment-assignment-two-mu.vercel.app/) | [Repo](https://github.com/bravonokoth/BongaChatApp) |
 | **Sisacco**  | Flutter, Dart, Firebase | - | [Repo](https://github.com/bravonokoth/Sisacco) |
-| **Zillow Full Stack** | MERN, Next.js, Firebase | - | [Repo](https://github.com/JAPHETHNYARANGA/Zillow) |
+| **Zillow Full Stack** | Laravel (backend), Angular (frontend) | - | [Repo](https://github.com/JAPHETHNYARANGA/Zillow) |
 
 ---
 
