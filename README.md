@@ -62,18 +62,25 @@ Team Leadership, Communication, Operations Management
 
 ## 🛠️ Projects I'm Proud Of
 
-| Project      | Stack | Live Demo | Repo |
-| ------------ | ----- | --------- | ---- |
-| **Bonga Chat App** | MongoDB, Express, React, Node, TypeScript, Vercel, Render | [Live](https://week-7-devops-deployment-assignment-two-mu.vercel.app/) | [Repo](https://github.com/bravonokoth/BongaChatApp) |
-| **Sisacco**  | Flutter, Dart, Firebase | - | [Repo](https://github.com/bravonokoth/Sisacco) |
-| **Zillow Full Stack** | Laravel (backend), Angular (frontend) | - | [Repo](https://github.com/JAPHETHNYARANGA/Zillow) |
+### 🚀 Bonga Chat App
+- **Stack:** MERN + TypeScript, Vercel, Render  
+- **Live Demo:** [🌐 Link](https://week-7-devops-deployment-assignment-two-mu.vercel.app/)  
+- **Repo:** [📂 GitHub](https://github.com/bravonokoth/BongaChatApp)
 
 ---
 
-## 📈 GitHub Stats
+### 📱 Sisacco
+- **Stack:** Flutter, Dart, Firebase  
+- **Live Demo:** –  
+- **Repo:** [📂 GitHub](https://github.com/bravonokoth/Sisacco)
 
-![Bravon Okoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravonokoth&layout=compact)
+---
+
+### 🏡 Zillow Full Stack
+- **Stack:** Laravel (Backend), Angular (Frontend)  
+- **Live Demo:** –  
+- **Repo:** [📂 GitHub](https://github.com/JAPHETHNYARANGA/Zillow)
+
 
 ---
 
