@@ -62,24 +62,21 @@ Team Leadership, Communication, Operations Management
 
 ## 🚀 Projects & GitHub Highlights
 
-<p align="center">
-  <a href="https://week-7-devops-deployment-assignment-two-mu.vercel.app/">
-    <img src="https://img.shields.io/badge/Bonga%20Chat%20App-MERN-blue?style=for-the-badge&logo=react" />
-  </a>
-  <a href="https://github.com/bravonokoth/Sisacco">
-    <img src="https://img.shields.io/badge/Sisacco-Flutter%20%7C%20Firebase-green?style=for-the-badge&logo=flutter" />
-  </a>
-  <a href="https://github.com/JAPHETHNYARANGA/Zillow">
-    <img src="https://img.shields.io/badge/Zillow-Laravel%20%7C%20Angular-red?style=for-the-badge&logo=laravel" />
-  </a>
-</p>
+🎯 **Bonga Chat App**  
+🔹 MERN + TypeScript + Vercel + Render  
+🌐 [Live Demo](https://week-7-devops-deployment-assignment-two-mu.vercel.app/) | 📂 [Repo](https://github.com/bravonokoth/BongaChatApp)  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=bravonokoth&theme=radical" height="180px"/>
-</p>
+📱 **Sisacco**  
+🔹 Flutter + Dart + Firebase  
+📂 [Repo](https://github.com/bravonokoth/Sisacco)  
+
+---
+
+🏡 **Zillow Full Stack**  
+🔹 Laravel (Backend) + Angular (Frontend)  
+📂 [Repo](https://github.com/JAPHETHNYARANGA/Zillow)
 
 
 
