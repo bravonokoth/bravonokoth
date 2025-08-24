@@ -60,37 +60,27 @@ Team Leadership, Communication, Operations Management
 
 ---
 
-## 🛠️ Projects I'm Proud Of
-
-### 🎯 Bonga Chat App
-![Bonga Preview](https://via.placeholder.com/600x200.png?text=Bonga+Chat+App)  
-🔹 **Stack:** MERN + TypeScript, Vercel, Render  
-🌐 [Live Demo](https://week-7-devops-deployment-assignment-two-mu.vercel.app/) | 📂 [Repo](https://github.com/bravonokoth/BongaChatApp)
-
----
-
-### 📱 Sisacco
-![Sisacco Preview](https://via.placeholder.com/600x200.png?text=Sisacco+App)  
-🔹 **Stack:** Flutter, Dart, Firebase  
-📂 [Repo](https://github.com/bravonokoth/Sisacco)
-
----
-
-### 🏡 Zillow Full Stack
-![Zillow Preview](https://via.placeholder.com/600x200.png?text=Zillow+Project)  
-🔹 **Stack:** Laravel + Angular  
-📂 [Repo](https://github.com/JAPHETHNYARANGA/Zillow)
-
-
-
----
-
-## 📈 GitHub Stats
+## 🚀 Projects & GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravonokoth&layout=compact&theme=tokyonight" height="180px"/>
+  <a href="https://week-7-devops-deployment-assignment-two-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Bonga%20Chat%20App-MERN-blue?style=for-the-badge&logo=react" />
+  </a>
+  <a href="https://github.com/bravonokoth/Sisacco">
+    <img src="https://img.shields.io/badge/Sisacco-Flutter%20%7C%20Firebase-green?style=for-the-badge&logo=flutter" />
+  </a>
+  <a href="https://github.com/JAPHETHNYARANGA/Zillow">
+    <img src="https://img.shields.io/badge/Zillow-Laravel%20%7C%20Angular-red?style=for-the-badge&logo=laravel" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=bravonokoth&theme=radical" height="180px"/>
+</p>
+
 
 
 ## ✨ Fun Zone
