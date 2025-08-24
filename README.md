@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bravon Okoth</h1>
 
 <p align="center">
-  🚀 Full Stack Engineer | Flutter & Laravel Enthusiast | Cloud & DevOps Explorer
+  🚀 Full Stack Engineer | AI & ML Enthusiast | Cloud & DevOps Explorer
 </p>
 
 ---
@@ -86,11 +86,10 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&theme=radical" height="180px"/>
-<img src="https://streak-stats.demolab.com/?user=bravonokoth&theme=radical" height="180px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=bravonokoth&theme=radical" width="48%" />
 </div>
+
 
 ---
 
