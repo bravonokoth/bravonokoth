@@ -58,6 +58,14 @@ Here are some of my best open-source projects:
 
 ---
 
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=bravonokoth&theme=radical" width="48%" />
+</div>
+
+---
+
 *Let's connect on [LinkedIn](https://www.linkedin.com/in/bravonokoth) or check out my portfolio at [orwabravon.vercel.app](https://orwabravon.vercel.app)*
 
 ---
