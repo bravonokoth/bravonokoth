@@ -4,6 +4,24 @@ Turning ideas into real-world systems • Full Stack Development • Cloud-Nativ
 
 ---
 
+```mermaid
+flowchart LR
+    FE[Frontend<br/>(React, Angular, Flutter)]
+    BE[Backend/API<br/>(Node.js, Express, Flask, Laravel)]
+    DB[(Database<br/>MongoDB, PostgreSQL, Firebase)]
+    AI[AI/ML Service<br/>(TensorFlow, PyTorch)]
+    MS[Microservices]
+    IN[Integration Layer]
+
+    FE --> BE
+    BE --> DB
+    BE --> IN
+    IN --> AI
+    IN --> MS
+```
+
+---
+
 ## About Me
 
 I am a Full Stack Engineer and passionate AI/ML Enthusiast with a strong background in building scalable web and mobile applications, and exploring the latest in DevOps and cloud technologies.
@@ -32,6 +50,9 @@ MongoDB • PostgreSQL • Firebase • Supabase • Oracle • Vercel • Rende
 
 ### DevOps & Tools
 Docker • Kubernetes • GitHub Actions • Sentry • Linux
+
+### AI & Machine Learning
+AI/ML frameworks (like TensorFlow/PyTorch) • Deep Learning • Natural Language Processing (NLP) • Data Handling
 
 ---
 
