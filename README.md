@@ -58,6 +58,8 @@ Here are some of my best open-source projects:
   [Repo](https://github.com/bravonokoth/sisacco)
 - **Zillow Full Stack** — Real-estate platform clone using Laravel and Angular.  
   [Repo](https://github.com/JAPHETHNYARANGA/Zillow)
+- **Object Detection** - A full-stack web app for real-time object detection using YOLOv8. Upload any image and get instant detections for 80+ classes (people, vehicles, animals, etc.).
+  [Live Demo](https://objectdetection-vgxwkbppwshttd5meyswl5.streamlit.app/) • [Repo](https://github.com/bravonokoth/object_detection)
 
 ---
 
