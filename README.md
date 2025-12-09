@@ -52,8 +52,6 @@ AI/ML frameworks (like TensorFlow/PyTorch) • Deep Learning • Natural Languag
 
 Here are some of my best open-source projects:
 
-- **Bonga Chat App** — Real-time chat application built with MERN stack, TypeScript, and deployed on Vercel/Render.  
-  [Live Demo](https://week-7-devops-deployment-assignment-two-mu.vercel.app/) • [Repo](https://github.com/bravonokoth/week-7-devops-deployment-assignment-bravonokoth)
 - **Sisacco** — Mobile app built with Flutter, Dart, and Firebase for modern digital experiences.  
   [Repo](https://github.com/bravonokoth/sisacco)
 - **Zillow Full Stack** — Real-estate platform clone using Laravel and Angular.  
