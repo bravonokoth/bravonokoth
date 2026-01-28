@@ -66,7 +66,7 @@ Full list: [LinkedIn](https://www.linkedin.com/in/bravonokoth)
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravonokoth&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bravonokoth&theme=radical" width="48%" />
 </div>
 
 ---
@@ -75,7 +75,3 @@ Full list: [LinkedIn](https://www.linkedin.com/in/bravonokoth)
 - LinkedIn: https://www.linkedin.com/in/bravonokoth  
 - GitHub: https://github.com/bravonokoth
 
-If you'd like, I can:
-- Create a shorter “business card” version for your GitHub profile bio
-- Add badges for technologies/certifications
-- Commit this README directly to a repo (tell me the repo owner/name and target branch)
