@@ -1,18 +1,19 @@
-# Hi, I'm Bravon Okoth  
+# Hi, I'm Bravon Okoth 👋
+
 Full Stack Engineer | AI & ML Enthusiast | Cloud & DevOps Explorer  
-Turning ideas into real-world systems • Full Stack Development • Cloud-Native Apps • AI/ML Integration
+Turning ideas into real-world systems • Full Stack Development • Cloud-native Apps • AI/ML Integration
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bravonokoth)
+[![Website](https://img.shields.io/badge/Portfolio-Available-lightgrey?style=for-the-badge)](#contact)
 
 ---
 
 ## About Me
+I build scalable, production-ready web and mobile applications and integrate AI/ML into real products. I enjoy improving developer productivity, automating workflows, and driving cross-functional collaboration to deliver robust software that makes an impact.
 
-I am a Full Stack Engineer and passionate AI/ML Enthusiast with a strong background in building scalable web and mobile applications, and exploring the latest in DevOps and cloud technologies.
-
-- I design and develop full stack solutions leveraging modern frameworks and cloud platforms.
-- Experienced in both frontend and backend development, cloud-native architectures, and DevOps practices.
-- Skilled at integrating AI/ML capabilities into real-world products.
-- Passionate about developer productivity, automation, and cross-functional collaboration.
-- My mission: Deliver robust, innovative software that makes an impact.
+- Experienced across frontend, backend, cloud-native architectures, and DevOps.
+- Passionate about practical AI/ML integrations and building reliable systems.
+- Always learning — currently exploring advanced ML workflows, cloud-native observability, and MLOps.
 
 ---
 
@@ -25,50 +26,56 @@ JavaScript • TypeScript • Python • Dart • PHP • HTML5 • Git • Dock
 React • Next.js • Angular • TailwindCSS • Bootstrap • Flutter
 
 ### Backend
-Node.js • Express.js • Flask • Laravel • FastAPI
+Node.js • Express.js • Flask • FastAPI • Laravel
 
 ### Databases & Cloud
 MongoDB • PostgreSQL • Firebase • Supabase • Oracle • Vercel • Render
 
-### DevOps & Tools
+### DevOps & Tooling
 Docker • Kubernetes • GitHub Actions • Sentry • Linux
 
 ### AI & Machine Learning
-AI/ML frameworks (like TensorFlow/PyTorch) • Deep Learning • Natural Language Processing (NLP) • Data Handling
+TensorFlow / PyTorch • Deep Learning • NLP • Model deployment & inference • Data handling
 
 ---
 
 ## Certifications (Highlights)
-- Hedera Hashgraph Certification (Web3)
-- Oracle Cloud Infrastructure AI Foundation Associate
-- IBM AI Fundamentals
-- Digital Marketing (Google Digital Skills)
-- Instant and Inclusive Payment Systems (Digital Frontiers Institute)
-- [Full list available on LinkedIn](https://www.linkedin.com/in/bravonokoth)
+- Hedera Hashgraph Certification (Web3)  
+- Oracle Cloud Infrastructure AI Foundation Associate  
+- IBM AI Fundamentals  
+- Google Digital Skills — Digital Marketing  
+- Instant and Inclusive Payment Systems (Digital Frontiers Institute)  
+Full list: [LinkedIn](https://www.linkedin.com/in/bravonokoth)
 
 ---
 
 ## Featured Projects
 
-Here are some of my best open-source projects:
+- **Sisacco** — Mobile app built with Flutter, Dart, and Firebase.  
+  Repo: https://github.com/bravonokoth/sisacco
 
-- **Sisacco** — Mobile app built with Flutter, Dart, and Firebase for modern digital experiences.  
-  [Repo](https://github.com/bravonokoth/sisacco)
 - **Zillow Full Stack** — Real-estate platform clone using Laravel and Angular.  
-  [Repo](https://github.com/JAPHETHNYARANGA/Zillow)
-- **Object Detection** - A full-stack web app for real-time object detection using YOLOv8. Upload any image and get instant detections for 80+ classes (people, vehicles, animals, etc.).
-  [Live Demo](https://objectdetection-vgxwkbppwshttd5meyswl5.streamlit.app/) • [Repo](https://github.com/bravonokoth/object_detection)
+  Repo: https://github.com/JAPHETHNYARANGA/Zillow
+
+- **Object Detection** — Full-stack web app for real-time object detection using YOLOv8. Upload images and get instant detections for 80+ classes.  
+  Live Demo: https://objectdetection-vgxwkbppwshttd5meyswl5.streamlit.app/  
+  Repo: https://github.com/bravonokoth/object_detection
 
 ---
 
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bravonokoth&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=bravonokoth&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravonokoth&layout=compact&theme=radical" width="48%" />
 </div>
 
 ---
 
-*Let's connect on [LinkedIn](https://www.linkedin.com/in/bravonokoth) or check out my portfolio at [orwabravon.vercel.app](https://orwabravon.vercel.app)*
+## Contact
+- LinkedIn: https://www.linkedin.com/in/bravonokoth  
+- GitHub: https://github.com/bravonokoth
 
----
+If you'd like, I can:
+- Create a shorter “business card” version for your GitHub profile bio
+- Add badges for technologies/certifications
+- Commit this README directly to a repo (tell me the repo owner/name and target branch)
