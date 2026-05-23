@@ -1,6 +1,4 @@
 # Hi, I'm Bravon Okoth 👋
-
-Full Stack Engineer | AI & ML Enthusiast | Cloud & DevOps Explorer  
 Turning ideas into real-world systems • Full Stack Development • Cloud-native Apps • AI/ML Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bravonokoth)
@@ -74,4 +72,3 @@ Full list: [LinkedIn](https://www.linkedin.com/in/bravonokoth)
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/bravonokoth  
 - GitHub: https://github.com/bravonokoth
-
